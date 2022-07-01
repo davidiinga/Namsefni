@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Námsefni og sýnidaemi
 
 #### Vefgreinar og skýringar
@@ -10,3 +11,7 @@
 #### Kóðasýnidæmi
 - [Halló heimur](https://github.com/vefthroun/Verkefni/blob/main/Synidaemi/halloheimur.md)
 - [Routes kóðasýnidæmi (með skýringum)](https://github.com/vefthroun/Verkefni/tree/main/Synidaemi/Routes)
+=======
+# Sýnidæmi
+vefforritun 
+>>>>>>> 512fffce34ef671edd083fe6b3e0a8068842a11a
