@@ -1,2 +1,2 @@
-# Synidaemi
-vefforritun sýnidæmi 
+# Sýnidæmi
+vefforritun 
