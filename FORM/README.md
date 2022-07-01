@@ -5,7 +5,7 @@
  
 ---
 
-#### WTForms (sleppa/geyma)
+#### WTForms 
 A form input handling and validation. The Flask-WTF extension uses Python classes to represent web forms. <br>
 Að sækja flask-wtf viðbót: `(venv) $ pip install flask-wtf`
 
