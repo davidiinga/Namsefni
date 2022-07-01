@@ -1,0 +1,2 @@
+# Synidaemi
+vefforritun sýnidæmi 
