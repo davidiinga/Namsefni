@@ -12,4 +12,4 @@
 
 ##### Skoða nánar
 
-url_for()  https://flask.palletsprojects.com/en/1.1.x/quickstart/#url-building
+url_for()  https://flask.palletsprojects.com/en/2.1.x/quickstart/#url-building
