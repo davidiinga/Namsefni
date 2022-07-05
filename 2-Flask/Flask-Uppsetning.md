@@ -1,12 +1,3 @@
-### Hvað er Flask
-
-[Flask](https://flask.palletsprojects.com/en/1.1.x/) (source code) is a Python web framework built with a small core and easy-to-extend philosophy. 
-
-Flask is considered more Pythonic than the Django web framework because in common situations the equivalent Flask web application is more explicit. Flask is also easy to get started with as a beginner because there is little boilerplate code for getting a simple app up and running. [Flask – Overview](https://www.tutorialspoint.com/flask/flask_quick_guide.htm)
-
-- [Leiðbeiningar: Flask Uppsetning](Flask-Uppsetning.md)
-- [Uppsetningar vandamál](Vandamal.md)
-
 
 #### Uppsetning á Flask
 
@@ -38,7 +29,7 @@ Flask is considered more Pythonic than the Django web framework because in commo
     1. Athugaðu hvort flask hafi installast:  `>>> import flask`  
     1. ef það er engin villumelding þá tókst það.  `>>> quit()`
 1. Halló heimur
-    1. Búðu til [halloheimur.py](halloheimur.md) (má aldrei heita flask.py) skránna í Visual Studio Code Editor.
+    1. Búðu til [halloheimur.py](https://github.com/vefthroun/V21/blob/main/Synidaemi/halloheimur.md) (má aldrei heita flask.py) skránna í Visual Studio Code Editor.
     1. vistaðu `halloheimur.py` í vefur3 möppunni sem geymir einnig venv möppuna.
 1. Að keyra og sjá halloheimur.py á local server
     1. Keyrðu python skránn: `python halloheimur.py`
