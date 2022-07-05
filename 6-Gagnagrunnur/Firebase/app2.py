@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 # tengin við firebase realtime database á firebase.google.com ( db hjá danielsimongalvez@gmail.com )
 config = {
-    # Þið setjið ykkar tengiupplýsingar hér strákar...
+    # Þið setjið ykkar tengiupplýsingar hér ...
 }
 fb = pyrebase.initialize_app(config)
 db = fb.database()
