@@ -5,12 +5,7 @@
 Flask is considered more Pythonic than the Django web framework because in common situations the equivalent Flask web application is more explicit. Flask is also easy to get started with as a beginner because there is little boilerplate code for getting a simple app up and running. [Flask – Overview](https://www.tutorialspoint.com/flask/flask_quick_guide.htm)
 
 
-#### Uppsetning á Flask
-
-- https://flask.palletsprojects.com/en/2.1.x/installation/
-- [Vandamál við uppsetningu Flask](Vandamal.md)
-
----
+### Uppsetning á Flask
 
 #### Windows leiðbeiningar (með notkun power shell)
 1. Þú þarft að hafa nýlega stöðuga (stable) útgáfu t.d. 3.8.x af [python þýðanda](https://www.python.org/downloads/release/python-387/).
@@ -53,6 +48,11 @@ Flask is considered more Pythonic than the Django web framework because in commo
 1. Til að sækja söfn t.d. flask þá notum við [pip (python package installer)](https://pypi.org/) `pip install flask` 
 1. Við getum skoðað hvaða viðbætur við höfum sett í `env/Lib/site-packages/` þessar viðbætur tilheyra eingöngu vefþróunarsvæðinu
 1. Búum til `.gitignore` skrá  til að hunsa `venv` möppu og `.vscode skrá, við vijum ekki hafa þetta með í git aðgerðum. Tengjum Git við Github repository.
+
+---
+
+- https://flask.palletsprojects.com/en/2.1.x/installation/
+- [Vandamál við uppsetningu Flask](Vandamal.md)
 
 <!--
 ### Skoða betur linka (kennari)
