@@ -1,4 +1,4 @@
-# Námsefni og sýnidaemi
+# Námsefni og sýnidæmi
 
 #### Vefgreinar og skýringar
 - [Query Strings](https://github.com/vefthroun/Verkefni/blob/main/Efnistok/QueryString_GETRequest_Routing%20(1).pdf)
