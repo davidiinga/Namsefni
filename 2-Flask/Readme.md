@@ -64,6 +64,20 @@ Python Environment 101 - https://towardsdatascience.com/python-environment-101-1
 
 -->
 
+#### Vefgreinar og skýringar
+
+- [Query Strings](QueryString_GETRequest_Routing.pdf)
+- [Flask Routing](https://flask.palletsprojects.com/en/1.1.x/quickstart/#routing)
+- [Flask Tutorial: Routes](https://pythonbasics.org/flask-tutorial-routes/)
+- [The Art of Routing in Flask](https://hackersandslackers.com/flask-routes)
+---
+
+#### Kóðasýnidæmi
+
+- [Halló heimur](https://github.com/vefthroun/Verkefni/blob/main/Synidaemi/halloheimur.md)
+- [Routes kóðasýnidæmi (með skýringum)](https://github.com/vefthroun/Verkefni/tree/main/Synidaemi/Routes)
+
+
 #### VS Code (python og venv)
 
 - Vefgrein: [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
