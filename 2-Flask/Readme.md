@@ -22,11 +22,12 @@ Flask is considered more Pythonic than the Django web framework because in commo
     1. Athugaðu hvort flask sé virkt (active):  `>>> import flask`  
     1. ef það er engin villumelding þá tókst það.  `>>> quit()`
 1. Halló heimur
-    1. Búðu til [halloheimur.py](https://github.com/vefthroun/V21/blob/main/Synidaemi/halloheimur.md) (má aldrei heita flask.py) skránna í Visual Studio Code Editor.
-    1. vistaðu `halloheimur.py` í vefur3 möppunni sem geymir einnig venv möppuna.
+    1. Búðu til [halloheimur.py](halloheimur.md) skránna í Visual Studio Code Editor 
+    1. Ekki nefna skrá "flask.py" nema að þú viljir lenda í vandræðum  
+    1. vistaðu `halloheimur.py` í vefur3 möppunni sem geymir einnig venv möppuna
 1. Að keyra og sjá halloheimur.py á local server
     1. Keyrðu python skrána: `python halloheimur.py`
-    1. Skoðaðu vef í vafra.
+    1. Skoðaðu vef í vafra
 ---
 
 
