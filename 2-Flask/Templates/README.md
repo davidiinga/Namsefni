@@ -6,7 +6,7 @@ Jinja is a designer-friendly templating language for Python.
 * [Variables & dictionary (myndband)](https://youtu.be/pJ8V51XJuf0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04)
 * [Loops & inheritance (myndband)](https://youtu.be/APh3jdVryF0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04)
 * [Rendering Pages in Flask Using Jinja](https://hackersandslackers.com/flask-jinja-templates)
-* [Templates](http://jinja.pocoo.org/docs/2.11/templates/#base-template)
+* [Templates](https://jinja.palletsprojects.com/en/3.0.x/templates/)
 * [Filters](https://jinja.palletsprojects.com/en/2.11.x/templates/#builtin-filters)
 * [Real Python Jinja](https://realpython.com/primer-on-jinja-templating/)
 ---
