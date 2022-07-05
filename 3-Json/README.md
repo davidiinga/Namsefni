@@ -2,8 +2,11 @@ JSON er opið gagnaskiptasnið sem notar læsilegan texta til að geyma og senda
 Uppbygging samanstendur af eigindi (key) og gildi (value) pörum. JSON er mjög vinsælt gagnasnið.
 
 * [Dæmi 1](1_JSON_Syntax.json)
-* [Dæmi 2](2_JSON_EXAMPLE.json)
-
+* [Dæmi 2](2_JSON_EXAMPLES.json)
+* [Dæmi 3](3_JsonToDictionary.py)
+* [Dæmi 4](4_dictionaryToJson.py)
+* [Dæmi 5](5_lesa_skra.py)
+* [Dæmi 6](6_skrifa_skra.py)
 
 ---
 
