@@ -1,6 +1,6 @@
 ### Hvað er Flask
 
-[Flask](https://flask.palletsprojects.com/en/1.1.x/) (source code) is a Python web framework built with a small core and easy-to-extend philosophy. 
+[Flask](https://flask.palletsprojects.com/en/2.1.x/) (source code) is a Python web framework built with a small core and easy-to-extend philosophy. 
 
 Flask is considered more Pythonic than the Django web framework because in common situations the equivalent Flask web application is more explicit. Flask is also easy to get started with as a beginner because there is little boilerplate code for getting a simple app up and running. [Flask – Overview](https://www.tutorialspoint.com/flask/flask_quick_guide.htm)
 
@@ -67,15 +67,15 @@ Python Environment 101 - https://towardsdatascience.com/python-environment-101-1
 #### Vefgreinar og skýringar
 
 - [Query Strings](QueryString_GETRequest_Routing.pdf)
-- [Flask Routing](https://flask.palletsprojects.com/en/1.1.x/quickstart/#routing)
+- [Flask Routing](https://flask.palletsprojects.com/en/2.1.x/quickstart/#routing)
 - [Flask Tutorial: Routes](https://pythonbasics.org/flask-tutorial-routes/)
 - [The Art of Routing in Flask](https://hackersandslackers.com/flask-routes)
 ---
 
 #### Kóðasýnidæmi
 
-- [Halló heimur](https://github.com/vefthroun/Verkefni/blob/main/Synidaemi/halloheimur.md)
-- [Routes kóðasýnidæmi (með skýringum)](https://github.com/vefthroun/Verkefni/tree/main/Synidaemi/Routes)
+- [Halló heimur](halloheimur.md)
+- [Routes kóðasýnidæmi (með skýringum)](/Routes/readme.md)
 
 
 #### VS Code (python og venv)
