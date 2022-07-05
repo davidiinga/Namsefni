@@ -2,7 +2,7 @@
 Jinja is a designer-friendly templating language for Python.
 
 * [Jinja heimasíðan](https://jinja.palletsprojects.com/en/2.11.x/)
-* [Templates kóðasýnidæmi](Templates/index.html)
+* [Templates kóðasýnidæmi](/2-Flask/Templates/templates/index.html)
 * [Variables & dictionary (myndband)](https://youtu.be/pJ8V51XJuf0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04)
 * [Loops & inheritance (myndband)](https://youtu.be/APh3jdVryF0?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04)
 * [Rendering Pages in Flask Using Jinja](https://hackersandslackers.com/flask-jinja-templates)
