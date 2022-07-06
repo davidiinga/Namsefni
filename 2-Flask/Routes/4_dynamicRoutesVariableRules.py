@@ -5,7 +5,7 @@ app = Flask(__name__)
 """
 Dynamic Routes & Variable Rules
 You can use filters to be more specific.
-https://flask.palletsprojects.com/en/1.1.x/quickstart/#variable-rules
+https://flask.palletsprojects.com/en/2.1.x/quickstart/#variable-rules
 
     string: (default) accepts any text without a slash
     int:    accepts positive integers
