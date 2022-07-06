@@ -7,7 +7,7 @@
 
 1. [Flask cookies (vefgrein)](https://pythonise.com/series/learning-flask/flask-cookies)
 1. [Get and set cookies with Flask](https://pythonbasics.org/flask-cookies/)
-1. [Cookies kóðasýnidæmi](https://github.com/vefthroun/Verkefni/tree/main/Synidaemi/Cookies)
+1. [Cookies kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/5-Cookies%26Sessions/Cookies)
 
 ---
 
@@ -20,5 +20,5 @@
 
 1. [An Introduction to Sessions in Flask (myndband)](https://www.youtube.com/watch?v=T1ZVyY1LWOg)
 1. [The Flask session object](https://pythonise.com/series/learning-flask/flask-session-object)
-1. [Kóðasýnidæmi](https://github.com/vefthroun/Verkefni/tree/main/Synidaemi/Session)
+1. [Kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/5-Cookies%26Sessions/Sessions)
 
