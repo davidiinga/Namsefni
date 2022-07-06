@@ -1,30 +1,30 @@
-### CSS 
-- [Material design - style guide](https://material.io/)
-- [Normalize (css reset)](https://necolas.github.io/normalize.css/)
+## CSS stílsíður
+
+Þú getur notað eigin vinnuramma (_framework_) sem þú hannaðir á síðustu önn til að stíla verkefni áfangans en það er ekki skilyrði. Þú getur notað aðrar lausnir. Hér að neðan eru CSS söfn sem hægt er að skoða. 
 
 ---
 
 ### CSS microsöfn
+
 - [Material design light (library of components)](https://getmdl.io/index.html)
 - [PureCSS](https://purecss.io/)
 
-
-<!--
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Bulma](https://bulma.io/) 
-- [Skeleton](http://getskeleton.com/)
--->
-
 ---
 
-<!--
 ### Front-end framework 
+
 - [Material CSS](https://materializecss.com/)
+- [Material design - style guide](https://material.io/)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [Semantic UI](https://semantic-ui.com/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Foundation](https://get.foundation/)
+- [Normalize (css reset)](https://necolas.github.io/normalize.css/)
 
+---
+<!--
+- [Bulma](https://bulma.io/) 
+- [Skeleton](http://getskeleton.com/)
 -->
-
 
 
