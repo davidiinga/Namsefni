@@ -32,7 +32,7 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
    - [How to parse Pyrebase OrderedDict](https://stackoverflow.com/questions/51976401/how-to-parse-pyrebase-ordereddict/51989082)
    - [tuples](https://realpython.com/python-lists-tuples/#python-tuples)
 1. [Að eyða og uppfæra gögn í Firebase gagnagrunni (12 mín)]()
-   - [kóðaskráin með myndbandinu](/Firebase/app2.py)
+   - [kóðaskráin með myndbandinu](https://github.com/vefthroun/Namsefni/blob/main/6-Gagnagrunnur/Firebase/app2.py)
 
 <!--
 - [Firebase Real Time Database and Flask (27 mín)](https://www.youtube.com/watch?t=1&v=aojoWWMN1r0&feature=youtu.be)
