@@ -22,7 +22,7 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
 
 1. [Að búa til Firebase gagnagrunn (10 mín)](https://youtu.be/6c27DhyWfQI)
 1. [Flask app tenging við Firebase gagnagrunn og að skrifa/lesa upplýsingar (13 mín)](https://youtu.be/NDCar59xGRI)
-   - [kóðaskráin með myndbandinu](https://github.com/vefthroun/V21/blob/main/Synidaemi/Firebase/app.py)
+   - [kóðaskráin með myndbandinu](/Firebase/app.py)
    - í sýndarumhverfi (virtual env) þarf að sækja: `pip install pyrebase4`
    - Það þarf einnig að bæta við í `config` heitið á gagnagrunninum:<br> `"databaseURL": "https://nafnágagnagrunni.firebaseio.com"`
 1. [html form og Firebase gagnagrunnur (14 mín)](https://youtu.be/wyWal1sG6Ms)
@@ -32,7 +32,7 @@ Firebase býður uppá [Realtime Database](https://firebase.google.com/docs/data
    - [How to parse Pyrebase OrderedDict](https://stackoverflow.com/questions/51976401/how-to-parse-pyrebase-ordereddict/51989082)
    - [tuples](https://realpython.com/python-lists-tuples/#python-tuples)
 1. [Að eyða og uppfæra gögn í Firebase gagnagrunni (12 mín)]()
-   - [kóðaskráin með myndbandinu](https://github.com/vefthroun/V21/blob/main/Synidaemi/Firebase/app2.py)
+   - [kóðaskráin með myndbandinu](/Firebase/app2.py)
 
 <!--
 - [Firebase Real Time Database and Flask (27 mín)](https://www.youtube.com/watch?t=1&v=aojoWWMN1r0&feature=youtu.be)

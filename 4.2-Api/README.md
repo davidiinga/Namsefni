@@ -16,3 +16,5 @@
 1. [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
 
 ---
+
+1. [Datetime (module) - Dagsetningar og tími í python](datetime.md)
