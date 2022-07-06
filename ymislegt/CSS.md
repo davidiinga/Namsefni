@@ -18,12 +18,12 @@
 - [Semantic UI](https://semantic-ui.com/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Foundation](https://get.foundation/)
-- [Normalize (css reset)](https://necolas.github.io/normalize.css/)
 
 ---
 <!--
 - [Bulma](https://bulma.io/) 
 - [Skeleton](http://getskeleton.com/)
+- [Normalize (css reset)](https://necolas.github.io/normalize.css/)
 -->
 
 
