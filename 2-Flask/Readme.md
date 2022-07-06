@@ -1,13 +1,10 @@
 ### Hvað er Flask
 
-[Flask](https://flask.palletsprojects.com/en/2.1.x/) er Python veframmi (_web framework_) sem er byggður með litlum kjarna sem auðvelt er að framlengja með viðbótum í pakkaformi (_package manager_).
-
-Flask er talin meira Pythonic en Django veframminn vegna þess að Flask vefforrit einfaldara og skýrara. Flask er auðvelt fyrir byrjendur, það hefur lítin grunnkóða (_boilerplate_) til að koma einföldu vefforriti í gang.
+[Flask](https://flask.palletsprojects.com/en/2.1.x/) er Python veframmi (_web framework_) sem er byggður á litlum kjarna og auðvelt er að framlengja hann með viðbótum í pakkaformi (_package manager_). Flask er talið meira _Pythonic_ en Django veframminn vegna þess að Flask vefforrit er skýrara(_explicit_). Flask er auðvelt fyrir byrjendur, það hefur lítin grunnkóða (_boilerplate_) til að koma einföldu vefforriti í gang.
 
 ---
 
 Flask is a Python web framework built with a small core and easy-to-extend philosophy. 
-
 Flask is considered more Pythonic than the Django web framework because in common situations the equivalent Flask web application is more explicit. Flask is also easy to get started with as a beginner because there is little boilerplate code for getting a simple app up and running. 
 
 [Flask – Overview](https://www.tutorialspoint.com/flask/flask_quick_guide.htm)
