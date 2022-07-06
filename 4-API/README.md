@@ -5,7 +5,7 @@
 ---
 
 #### Að sækja frá APIs með python og Flask
-1. [Kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/4.2-Api/3_FlaskParseJson/)
+1. [Kóðasýnidæmi](https://github.com/vefthroun/Namsefni/tree/main/4-API/3_FlaskParseJson)
 1. [Að sækja JSON (parse) frá API yfir netið (myndband frá 12:00)](https://youtu.be/9N6a-VLBa2I?t=705) 
 
 ---
