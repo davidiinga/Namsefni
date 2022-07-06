@@ -12,6 +12,7 @@ Flask is considered more Pythonic than the Django web framework because in commo
 
 [Flask – Overview](https://www.tutorialspoint.com/flask/flask_quick_guide.htm)
 
+---
 
 ### Uppsetning á Flask
 
@@ -36,18 +37,12 @@ Flask is considered more Pythonic than the Django web framework because in commo
 1. Að keyra og sjá halloheimur.py á local server
     1. Keyrðu python skrána: `python halloheimur.py`
     1. Skoðaðu vef í vafra
----
 
-
-#### Virtual environment og pip (package manager)
- - Myndband [Python Tutorial: VENV (Mac & Linux) - How to Use Virtual Environments](https://www.youtube.com/watch?v=Kg1Yvry_Ydk)
- 
+- https://flask.palletsprojects.com/en/2.1.x/installation/
+- [Vandamál við uppsetningu Flask](Vandamal.md)
 ---
 
 #### VS Code (python og venv)
-
-- Vefgrein: [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
-- Myndband: [Visual Studio Code (Windows) - Setting up a Python Development Environment](https://www.youtube.com/watch?v=-nh9rCzPJ20)
 
 1. Náðu þér í python stuðning sem er viðbót (extension) í VS Code [Python linting](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 1. Opnaðu möppuna sem geymir python skrárnar fyrir flask appið.
@@ -58,10 +53,15 @@ Flask is considered more Pythonic than the Django web framework because in commo
 1. Við getum skoðað hvaða viðbætur við höfum sett í `env/Lib/site-packages/` þessar viðbætur tilheyra eingöngu vefþróunarsvæðinu
 1. Búum til `.gitignore` skrá  til að hunsa `venv` möppu og `.vscode skrá, við vijum ekki hafa þetta með í git aðgerðum. Tengjum Git við Github repository.
 
+- Vefgrein: [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
+- Myndband: [Visual Studio Code (Windows) - Setting up a Python Development Environment](https://www.youtube.com/watch?v=-nh9rCzPJ20)
+
 ---
 
-- https://flask.palletsprojects.com/en/2.1.x/installation/
-- [Vandamál við uppsetningu Flask](Vandamal.md)
+#### Virtual environment og pip (package manager)
+ - Myndband [Python Tutorial: VENV (Mac & Linux) - How to Use Virtual Environments](https://www.youtube.com/watch?v=Kg1Yvry_Ydk)
+ 
+---
 
 <!--
 ### Skoða betur linka (kennari)
