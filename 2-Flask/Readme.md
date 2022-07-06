@@ -2,7 +2,7 @@
 
 [Flask](https://flask.palletsprojects.com/en/2.1.x/) er Python veframmi (_web framework_) sem er byggður með litlum kjarna sem auðvelt er að framlengja með viðbótum í pakkaformi (_package manager_).
 
-Flask er talin meira Pythonic en Django veframminn vegna þess að Flask vefforrit einfaldara og skýrara. Flask er auðvelt fyrir byrjendur vegna þess að það hefur lítin grunnkóða (boilerplate) til að koma einföldu forriti í gang.
+Flask er talin meira Pythonic en Django veframminn vegna þess að Flask vefforrit einfaldara og skýrara. Flask er auðvelt fyrir byrjendur, það hefur lítin grunnkóða (_boilerplate_) til að koma einföldu vefforriti í gang.
 
 ---
 
