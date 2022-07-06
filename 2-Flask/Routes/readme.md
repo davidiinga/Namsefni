@@ -1,15 +1,25 @@
 ### Routing Yfirlit
-1. QueryStrings
-1. Decoraters and routing, sjá halló heimur.
-1. Static Routing 
-1. Redirection Behavior
-1. Dynamic Routing
-1. Dynamic Routing and Varible rules
-1. Status codes
-1. Static files
+
+1. [Static Routing](1_staticRoutes.py) 
+1. [Redirection Behavior](2_redirectionBehavior.py)
+1. [Dynamic Routing](3_dynamicRoutes.py)
+1. [Dynamic Routing and Varible rules](4_dynamicRoutesVariableRules.py)
+1. [Error Handling](5_errorHandlingStatusCodes.py)
+1. [Redirects](6_redirects.py)
+1. [Static files](7_staticFiles.py)
 
 ---
 
-##### Skoða nánar
+#### Kóðasýnidæmi
 
-url_for()  https://flask.palletsprojects.com/en/2.1.x/quickstart/#url-building
+- [Decoraters and routing, sjá halló heimur](halloheimur.md)
+
+---
+
+#### Vefgreinar og skýringar
+
+- [Query Strings](QueryString_GETRequest_Routing.pdf)
+- [Flask Routing](https://flask.palletsprojects.com/en/1.1.x/quickstart/#routing)
+- [Flask Tutorial: Routes](https://pythonbasics.org/flask-tutorial-routes/)
+- [The Art of Routing in Flask](https://hackersandslackers.com/flask-routes)
+- [url_for()](https://flask.palletsprojects.com/en/2.1.x/quickstart/#url-building)
