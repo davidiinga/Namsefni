@@ -51,7 +51,8 @@ Flask is considered more Pythonic than the Django web framework because in commo
 1. Búum til `.gitignore` skrá  til að hunsa `venv` möppu og `.vscode skrá, við vijum ekki hafa þetta með í git aðgerðum. Tengjum Git við Github repository.
 
 - Vefgrein: [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
-- Myndband: [Visual Studio Code (Windows) - Setting up a Python Development Environment](https://www.youtube.com/watch?v=-nh9rCzPJ20)
+- Myndband: [](https://www.youtube.com/watch?v=x1cbYa2SSlE)
+- Myndband: [Visual Studio Code (Windows) - Setting up a Python Development Environment - Corey Shafer](https://www.youtube.com/watch?v=-nh9rCzPJ20)
 
 ---
 
