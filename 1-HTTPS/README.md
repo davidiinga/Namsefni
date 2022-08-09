@@ -2,7 +2,7 @@ Hypertext Transfer Protocol (HTTP) er aðferð til að senda eða taka við gög
 
 HTTP skilaboð eru byggð upp af HTTP haus og síðan gögnunum sjálfum. Til að skilja á milli gagnanna og haussins eru notuð tvö auð línubil (í útgáfum af HTTP fyrir HTTP/2). HTTP/1.1 er enn mikið notað og í nokkrum mæli næsta útgáfa HTTP, HTTP/2 sem staðlað var 2015, er studd af flestum vöfrum og t.d. netþjónum Google. Einnig er HTTP/3 ("Internet Draft") líka í notkun á vefnum nú þegar, er en sú aðferð, sem notar UDP en ekki TCP, ólíkt fyrri HTTP stöðlum, bætir hraðann enn frekar umfram HTTP/2 sem gerður var til að bæta hraðann á eldri HTTP staðli. 
 
-Allar þessar aðferðir þurfa bæði stuðning í vöfrum sem notaðir eru, en líka á miðlara ("web server"). Hvaða aðferð er í raun notuð er ekki augljóst fyrir notanda (ólíkt dulkóðuðu HTTPS; þó nota staðlarnir HTTP/2 og nýrri í reynd HTTPS). HTTPS þýðir aðeins að notuð sé örugg útgáfa af HTTP, t.d. HTTP/1.1 (eða nýrri); S-ið í lokin stendur fyrir secure, og ættu hið minnsta allir netbankar að nota það dulkóðaða afbrigði af HTTP. [Sjá nánar á wikipedia](https://is.wikipedia.org/wiki/HTTP)
+Allar þessar aðferðir þurfa bæði stuðning í vöfrum sem notaðir eru, en líka á miðlara ("web server"). Hvaða aðferð er í raun notuð er ekki augljóst fyrir notanda (ólíkt dulkóðuðu HTTPS; þó nota staðlarnir HTTP/2 og nýrri í reynd HTTPS). HTTPS þýðir aðeins að notuð sé örugg útgáfa af HTTP, t.d. HTTP/1.1 (eða nýrri); S-ið í lokin stendur fyrir secure. Flest fyrirtæki og allir netbankar að nota dulkóðaða afbrigðið af HTTP. [Sjá nánar á wikipedia](https://is.wikipedia.org/wiki/HTTP)
 
 ---
 
