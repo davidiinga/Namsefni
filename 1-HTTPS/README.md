@@ -13,7 +13,8 @@ Hypertext Transfer Protocol (HTTP) is an application-layer protocol for transmit
 * [HTTP Basics](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 * [HTTP skilaboð](https://httpstatuses.com/)
-* [Network Monitor](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor)
+* [Network Monitor, Mozilla](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor)
+* [Network Monitor, Google](https://developer.chrome.com/docs/devtools/network/)
 
 ---
 
