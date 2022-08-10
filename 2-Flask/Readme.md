@@ -18,7 +18,7 @@ Flask is considered more Pythonic than the Django web framework because in commo
     1. Til að kanna núverandi útgáfu:  `python --version` 
 1. Vefþróunarsvæði (_virutal environment_)
     1. búðu til möppu t.d. _vefforitun1_ í tölvunni t.d. á C: rót: `mkdir vefforritun1`
-    1. færðu þig í vefur3 möppuna `cd vefforritun1`
+    1. færðu þig í nýju möppuna `cd vefforritun1`
     1. settu upp virtual venv: `py -3 -m venv venv`
     1. activate venv: `venv\Scripts\activate`
 1. Install flask framework 
