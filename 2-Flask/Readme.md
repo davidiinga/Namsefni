@@ -45,7 +45,7 @@ Flask is considered more Pythonic than the Django web framework because in commo
 1. Opnaðu möppuna sem geymir python skrárnar fyrir flask appið.
 1. Veldu python þýðandann sem er í venv (neðra vinstra horni) prófað að keyra python skrá.
 1. .vscode -> settings.json  sýnir hvaða þýðandi verið að nota fyrir project.
-1. (venv) verður activate sjálfkrafa þegar við opnum terminal innan um VS Code  
+1. (venv) er virkt (_activate_) sjálfkrafa þegar við opnum terminal innan VS Code  
 1. Til að sækja söfn t.d. flask þá notum við [pip (python package installer)](https://pypi.org/) `pip install flask` 
 1. Við getum skoðað hvaða viðbætur við höfum sett í `env/Lib/site-packages/` þessar viðbætur tilheyra eingöngu vefþróunarsvæðinu
 1. Búum til `.gitignore` skrá  til að hunsa `venv` möppu og `.vscode skrá, við vijum ekki hafa þetta með í git aðgerðum. Tengjum Git við Github repository.
