@@ -16,9 +16,9 @@ Flask is considered more Pythonic than the Django web framework because in commo
 #### Windows leiðbeiningar (með notkun power shell)
 1. Þú þarft að hafa nýlega stöðuga (stable) útgáfu t.d. 3.8.x af [python þýðanda](https://www.python.org/downloads/release/python-387/).
     1. Til að kanna núverandi útgáfu:  `python --version` 
-1. Virutal environment
-    1. búðu til möppu t.d. vefur3 í tölvunni t.d. á C: rót: `mkdir vefur3`
-    1. færðu þig í vefur3 möppuna `cd vefur3`
+1. Vefþróunarsvæði (_virutal environment_)
+    1. búðu til möppu t.d. _vefforitun1_ í tölvunni t.d. á C: rót: `mkdir vefforritun1`
+    1. færðu þig í vefur3 möppuna `cd vefforritun1`
     1. settu upp virtual venv: `py -3 -m venv venv`
     1. activate venv: `venv\Scripts\activate`
 1. Install flask framework 
@@ -37,6 +37,11 @@ Flask is considered more Pythonic than the Django web framework because in commo
 
 - https://flask.palletsprojects.com/en/2.1.x/installation/
 - [Vandamál við uppsetningu Flask](Vandamal.md)
+
+---
+
+Klónaðu áfangageymsluna þína í 
+
 ---
 
 #### VS Code (python og venv)
