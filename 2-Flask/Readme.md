@@ -49,14 +49,15 @@ Klónaðu áfangageymsluna þína í möppuna vefforritun1
 
 Github.com/22VF/22h-nafn (áfangageymsla - Classroom repository)
    |___ .gitignore
+   |___ LICENCE
    |___ README.md
-       |___ verkefni-1 
-       |___ verkefni-2 
-       |___ verkefni-3 
-       |___ verkefni-4 
-       |___ verkefni-5 
-       |___ verkefni-6
-       |___ verkefni-7
+   |___ verkefni-1 
+   |___ verkefni-2 
+   |___ verkefni-3 
+   |___ verkefni-4 
+   |___ verkefni-5 
+   |___ verkefni-6
+   |___ verkefni-7
        
 Vefforritun1 (local environment)
    |___	venv (python flask)
