@@ -57,7 +57,7 @@ Github.com/22VF/22h-nafn (áfangageymsla - Classroom repository)
        |___ verkefni-6
        |___ verkefni-7
        
-Staðvært umhverfi (local environment)
+Vefforritun1 (local environment)
    |___	venv (python flask)
    |___	áfangageymsla (Classroom repository clone)
    
