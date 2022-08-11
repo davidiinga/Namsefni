@@ -19,9 +19,9 @@ Flask is considered more Pythonic than the Django web framework because in commo
 1. Vefþróunarsvæði (_virutal environment_)
     1. búðu til möppu t.d. _vefforitun1_ í tölvunni t.d. á C: rót: `mkdir vefforritun1`
     1. færðu þig í nýju möppuna `cd vefforritun1`
-    1. settu upp virtual venv: `py -3 -m venv venv`
-    1. activate venv: `venv\Scripts\activate`
-1. Install flask framework 
+    1. settu upp vefþróunarsvæði (virtual environment): `py -3 -m venv venv`
+    1. Virkjaðu svæðið (activate venv): `venv\Scripts\activate`
+1. Insetning Flask (Install flask framework)
     1. Activate venv: `venv\Scripts\activate`
     1. Notaðu pip til að setja inn (install) flask: `pip install flask`
     1. Opnaðu python þýðandann: `python`            
@@ -37,6 +37,7 @@ Flask is considered more Pythonic than the Django web framework because in commo
 
 - https://flask.palletsprojects.com/en/2.1.x/installation/
 - [Vandamál við uppsetningu Flask](Vandamal.md)
+- [MAC leiðbeiningar, _pip virtualenv mac_](https://programwithus.com/learn/python/pip-virtualenv-mac)
 
 ---
 
