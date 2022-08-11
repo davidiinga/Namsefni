@@ -63,6 +63,7 @@ Staðvært umhverfi (local environment)
    
 ```
 _Athugið að "venv" mappan á **ekki** að vera ofan í áfangageymslunni_
+
 ---
 
 #### VS Code (python og venv)
