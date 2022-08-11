@@ -33,15 +33,36 @@ Flask is considered more Pythonic than the Django web framework because in commo
     1. vistaðu `halloheimur.py` í vefur3 möppunni sem geymir einnig venv möppuna
 1. Að keyra og sjá halloheimur.py á local server
     1. Keyrðu python skrána: `python halloheimur.py`
-    1. Skoðaðu vef í vafra
+    1. Skoðaðu vefsíðuna í vafra
 
 - https://flask.palletsprojects.com/en/2.1.x/installation/
 - [Vandamál við uppsetningu Flask](Vandamal.md)
 
 ---
 
-Klónaðu áfangageymsluna þína í 
+### 🌈 Skipulag VEFÞ2VFC
 
+Klónaðu áfangageymsluna þína í möppuna vefforritun1  
+
+```
+
+Github.com/22VF/22h-nafn (áfangageymsla - Classroom repository)
+   |___ .gitignore
+   |___ README.md
+       |___ verkefni-1 
+       |___ verkefni-2 
+       |___ verkefni-3 
+       |___ verkefni-4 
+       |___ verkefni-5 
+       |___ verkefni-6
+       |___ verkefni-7
+       
+Staðvært umhverfi (local environment)
+   |___	venv (python flask)
+   |___	áfangageymsla (Classroom repository clone)
+   
+```
+_Athugið að "venv" mappan á **ekki** að vera ofan í áfangageymslunni_
 ---
 
 #### VS Code (python og venv)
