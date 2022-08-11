@@ -80,7 +80,7 @@ _Athugið að "venv" mappan á **ekki** að vera ofan í áfangageymslunni_
 1. Búum til `.gitignore` skrá  til að hunsa `venv` möppu og `.vscode skrá, við vijum ekki hafa þetta með í git aðgerðum. Tengjum Git við Github repository.
 
 - Vefgrein: [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
-- Vefgrein: [Tutorial Flask]https://code.visualstudio.com/docs/python/tutorial-flask
+- Vefgrein: [Tutorial Flask](https://code.visualstudio.com/docs/python/tutorial-flask)
 - Video: [First install and Virtual Environments - Windows 10](https://www.youtube.com/watch?v=x1cbYa2SSlE)
 - Video: [Visual Studio Code (Windows) - Setting up a Python Development Environment - Corey Shafer](https://www.youtube.com/watch?v=-nh9rCzPJ20)
 
