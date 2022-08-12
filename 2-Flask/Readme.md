@@ -83,6 +83,7 @@ _Athugið að "venv" mappan á **ekki** að vera ofan í áfangageymslunni_
 - Vefgrein: [Tutorial Flask in VS Code](https://code.visualstudio.com/docs/python/tutorial-flask)
 - Video: [First install and Virtual Environments - Windows 10](https://www.youtube.com/watch?v=x1cbYa2SSlE)
 - Video: [Visual Studio Code (Windows) - Setting up a Python Development Environment - Corey Shafer](https://www.youtube.com/watch?v=-nh9rCzPJ20)
+- Lesefni: [Flask tutorial, hello world](https://pythonbasics.org/flask-tutorial-hello-world/)
 
 ---
 
@@ -94,7 +95,6 @@ _Athugið að "venv" mappan á **ekki** að vera ofan í áfangageymslunni_
 <!--
 ### Skoða betur linka (kennari)
 - http://www.compjour.org/lessons/flask-single-page/hello-tiny-flask-app/
-- https://pythonbasics.org/flask-tutorial-hello-world/
 - [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - Flask by Example – Project Setup https://realpython.com/flask-by-example-part-1-project-setup/
 -->
