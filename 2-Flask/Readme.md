@@ -81,8 +81,8 @@ _Athugið að "venv" mappan á **ekki** að vera ofan í áfangageymslunni_
 
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 - [Tutorial Flask in VS Code](https://code.visualstudio.com/docs/python/tutorial-flask)
-- [Flask tutorial, what is Flask Python?](https://pythonbasics.org/what-is-flask-python/)
-- [Flask tutorial, hello world](https://pythonbasics.org/flask-tutorial-hello-world/)
+- [Python tutorial, what is Flask Python?](https://pythonbasics.org/what-is-flask-python/)
+- [Python tutorial, hello world](https://pythonbasics.org/flask-tutorial-hello-world/)
 - Video: [First install and Virtual Environments - Windows 10](https://www.youtube.com/watch?v=x1cbYa2SSlE)
 - Video: [Visual Studio Code (Windows) - Setting up a Python Development Environment - Corey Shafer](https://www.youtube.com/watch?v=-nh9rCzPJ20)
 
