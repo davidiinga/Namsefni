@@ -43,7 +43,7 @@ Flask is considered more Pythonic than the Django web framework because in commo
 
 ### 🌈 Skipulag VEFÞ2VFC
 
-Klónaðu áfangageymsluna þína í möppuna vefforritun1  
+Klónaðu áfangageymsluna þína í möppuna vefforritun1 - [Undirbúningur (vefgrunnur)](https://github.com/vefgrunnur/Namsefni/wiki)
 
 ```
 
