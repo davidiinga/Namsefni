@@ -19,7 +19,7 @@
 #### Vefgreinar og skýringar
 
 - [Query Strings](QueryString_GETRequest_Routing.pdf)
-- [Flask Routing](https://flask.palletsprojects.com/en/1.1.x/quickstart/#routing)
+- [Flask Routing](https://flask.palletsprojects.com/en/2.2.x/quickstart/#routing)
 - [Flask Tutorial: Routes](https://pythonbasics.org/flask-tutorial-routes/)
 - [The Art of Routing in Flask](https://hackersandslackers.com/flask-routes)
-- [url_for()](https://flask.palletsprojects.com/en/2.1.x/quickstart/#url-building)
+- [url_for()](https://flask.palletsprojects.com/en/2.2.x/quickstart/#url-building)
