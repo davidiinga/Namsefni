@@ -15,16 +15,16 @@ Vefsíða án þess að nota template
 def index():
 
     # dictionary
-    user = {'username': 'nemi'}
+    user = {'username': 'Gunnar Daníelsson'}
 
     # erfitt að debugga 
     return '''
     <html>
         <head>
-            <title>Home Page</title>
+            <title>Jinja grunnsíður</title>
         </head>
         <body>
-            <h1>Hello, ''' + user['username'] + '''!</h1>
+            <h1>Halló, ''' + user['username'] + '''!</h1>
         </body>
     </html>'''
 

@@ -15,9 +15,9 @@ HTML special characters are escaped automatically to prevent XSS attacks.
 @app.route('/')
 def index():
     # data
-    user = {'username': 'nemandi'}
+    user = {'username': 'Jón Jónsson'}
     # skilum html skránni index.html sem er vistuð í templates möppu (þurfum ekki að vísa í) með gögnum frá breytu og dictionary.
-    return render_template('template1.html', title='Home', user=user)
+    return render_template('template1.html', title='Jinja grunnur', user=user)
 
 
 # This starts the web app 
